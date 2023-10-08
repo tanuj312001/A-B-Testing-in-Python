@@ -18,3 +18,7 @@ Our dataset (data.csv) originates from an A/B testing scenario where a promotion
 - CTR: Click-Through Rate, indicating if a user clicked on the promotional banner.
 - rev_user: Revenue generated from the user during the session.
 - user_type: Specifies if the user was part of the treatment group (saw the banner) or the control group.
+
+# Some distributions of Treatment and Control group 
+
+![download (1)](https://github.com/tanuj312001/A-B-Testing-in-Python/assets/60888384/16c80c17-c32b-461d-828f-3788606fa8b0)
